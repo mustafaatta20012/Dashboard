@@ -119,6 +119,10 @@ ul {
     .sidebar {
         width: 58px;
         padding: 10px;
+            display: flex;
+    /* text-align: center; */
+    flex-direction: column;
+    align-items: center;
     }
 
     .sidebar>h3 {
